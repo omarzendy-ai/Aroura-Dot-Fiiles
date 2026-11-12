@@ -56,3 +56,7 @@ View The Shell
 
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f22383b8-970a-442f-af0a-81ce0b22695d" />
+
+Liquid Glass Bar
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/33e6a983-6e82-4d32-902e-a8439394f0fb" />
+
