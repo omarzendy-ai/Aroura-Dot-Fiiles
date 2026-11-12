@@ -41,3 +41,18 @@ All 3 interfaces have been merged together into a single unified launcher for ea
 Installation Script: There is an install.sh / setup.sh script included in the repository. I haven't fully verified if it works out-of-the-box on every setup—if you fix or improve the install script, please submit it in the GitHub Issues! I'll reach out, share my Discord with you, and thank you personally for fixing it.
 
 Thank you for reading this description and checking out the project!
+
+View The Shell 
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6c75a559-d195-4133-8fc8-3b1850364ac4" />
+
+<img width="700" height="164" alt="image" src="https://github.com/user-attachments/assets/43c14186-4abc-43ef-b2cc-6de876d44041" />
+
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/278e4796-e02d-4416-9877-f3820f21e894" />
+
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2a32c964-f3d1-435d-aaa1-3a95860f8ab5" />
+
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f22383b8-970a-442f-af0a-81ce0b22695d" />
